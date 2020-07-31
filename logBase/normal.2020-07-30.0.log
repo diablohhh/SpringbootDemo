@@ -1,0 +1,29 @@
+2020-07-30 14:53:40.249 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 26032 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
+2020-07-30 14:53:40.264 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
+2020-07-30 14:53:45.541 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
+	CreateTime:"2020-07-30 14:53:43",
+	ActiveCount:0,
+	PoolingCount:1,
+	CreateCount:1,
+	DestroyCount:0,
+	CloseCount:2,
+	ConnectCount:2,
+	Connections:[
+		{ID:1375979535, ConnectTime:"2020-07-30 14:53:43", UseCount:2, LastActiveTime:"2020-07-30 14:53:45"}
+	]
+}]
+2020-07-30 14:53:47.039 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.web.servlet.context.ServletWebServerInitializedEvent[source=org.springframework.boot.web.embedded.tomcat.TomcatWebServer@147c00aa]
+2020-07-30 14:53:47.050 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.context.event.ContextRefreshedEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@29526c05, started on Thu Jul 30 14:53:40 CST 2020]
+2020-07-30 14:53:47.056 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Started DemoApplication in 10.38 seconds (JVM running for 12.901)
+2020-07-30 14:53:47.057 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationStartedEvent[source=org.springframework.boot.SpringApplication@5d37aa0f]
+2020-07-30 14:53:47.058 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@29526c05, started on Thu Jul 30 14:53:40 CST 2020]
+2020-07-30 14:53:47.061 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@5d37aa0f]
+2020-07-30 14:53:47.062 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 应用初始化成功，应用可以接受请求:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@5d37aa0f]
+2020-07-30 14:53:47.062 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@29526c05, started on Thu Jul 30 14:53:40 CST 2020]
+2020-07-30 14:53:47.064 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 
+--------------------------------------------------------
+Application'demo-dev' is Running ! Access URLs :
+Local : http://127.0.0.1:19989
+External:http://192.168.1.123:19989
+--------------------------------------------------------
+
