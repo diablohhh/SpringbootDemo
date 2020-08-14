@@ -1,9 +1,7 @@
-2020-07-31 10:43:56.387 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 35856 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
-2020-07-31 10:43:56.396 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
-2020-07-31 10:46:04.716 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 31420 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
-2020-07-31 10:46:04.720 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
-2020-07-31 10:46:08.494 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
-	CreateTime:"2020-07-31 10:46:06",
+2020-08-14 15:06:03.707 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 16652 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
+2020-08-14 15:06:03.719 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
+2020-08-14 15:06:07.231 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
+	CreateTime:"2020-08-14 15:06:05",
 	ActiveCount:0,
 	PoolingCount:1,
 	CreateCount:1,
@@ -11,128 +9,390 @@
 	CloseCount:2,
 	ConnectCount:2,
 	Connections:[
-		{ID:448843184, ConnectTime:"2020-07-31 10:46:07", UseCount:2, LastActiveTime:"2020-07-31 10:46:08"}
+		{ID:576909528, ConnectTime:"2020-08-14 15:06:06", UseCount:2, LastActiveTime:"2020-08-14 15:06:07"}
 	]
 }]
-2020-07-31 10:46:08.904 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationFailedEvent[source=org.springframework.boot.SpringApplication@20dd5870]
-2020-07-31 10:47:25.402 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 17796 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
-2020-07-31 10:47:25.406 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
-2020-07-31 10:47:28.823 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
-	CreateTime:"2020-07-31 10:47:27",
-	ActiveCount:0,
-	PoolingCount:1,
-	CreateCount:1,
-	DestroyCount:0,
-	CloseCount:2,
-	ConnectCount:2,
-	Connections:[
-		{ID:1580751727, ConnectTime:"2020-07-31 10:47:27", UseCount:2, LastActiveTime:"2020-07-31 10:47:28"}
-	]
-}]
-2020-07-31 10:47:29.207 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationFailedEvent[source=org.springframework.boot.SpringApplication@6249a08d]
-2020-07-31 10:49:02.968 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 36628 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
-2020-07-31 10:49:02.971 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
-2020-07-31 10:49:06.305 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
-	CreateTime:"2020-07-31 10:49:04",
-	ActiveCount:0,
-	PoolingCount:1,
-	CreateCount:1,
-	DestroyCount:0,
-	CloseCount:2,
-	ConnectCount:2,
-	Connections:[
-		{ID:195359600, ConnectTime:"2020-07-31 10:49:05", UseCount:2, LastActiveTime:"2020-07-31 10:49:06"}
-	]
-}]
-2020-07-31 10:49:06.695 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationFailedEvent[source=org.springframework.boot.SpringApplication@20dd5870]
-2020-07-31 10:51:00.304 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 23428 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
-2020-07-31 10:51:00.309 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
-2020-07-31 10:51:03.989 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
-	CreateTime:"2020-07-31 10:51:02",
-	ActiveCount:0,
-	PoolingCount:1,
-	CreateCount:1,
-	DestroyCount:0,
-	CloseCount:2,
-	ConnectCount:2,
-	Connections:[
-		{ID:934352027, ConnectTime:"2020-07-31 10:51:03", UseCount:2, LastActiveTime:"2020-07-31 10:51:03"}
-	]
-}]
-2020-07-31 10:51:04.380 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationFailedEvent[source=org.springframework.boot.SpringApplication@2e349cf2]
-2020-07-31 10:57:45.467 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 29600 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
-2020-07-31 10:57:45.471 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
-2020-07-31 11:00:03.075 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 37740 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
-2020-07-31 11:00:03.077 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
-2020-07-31 11:00:06.511 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
-	CreateTime:"2020-07-31 11:00:04",
-	ActiveCount:0,
-	PoolingCount:1,
-	CreateCount:1,
-	DestroyCount:0,
-	CloseCount:2,
-	ConnectCount:2,
-	Connections:[
-		{ID:820781338, ConnectTime:"2020-07-31 11:00:05", UseCount:2, LastActiveTime:"2020-07-31 11:00:06"}
-	]
-}]
-2020-07-31 11:00:06.900 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationFailedEvent[source=org.springframework.boot.SpringApplication@6aa6c17]
-2020-07-31 11:01:58.031 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 36900 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
-2020-07-31 11:01:58.036 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
-2020-07-31 11:02:01.669 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
-	CreateTime:"2020-07-31 11:02:00",
-	ActiveCount:0,
-	PoolingCount:1,
-	CreateCount:1,
-	DestroyCount:0,
-	CloseCount:2,
-	ConnectCount:2,
-	Connections:[
-		{ID:1296953588, ConnectTime:"2020-07-31 11:02:00", UseCount:2, LastActiveTime:"2020-07-31 11:02:01"}
-	]
-}]
-2020-07-31 11:02:02.099 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationFailedEvent[source=org.springframework.boot.SpringApplication@7657d90b]
-2020-07-31 11:03:07.347 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 37404 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
-2020-07-31 11:03:07.352 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
-2020-07-31 11:03:10.949 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
-	CreateTime:"2020-07-31 11:03:09",
-	ActiveCount:0,
-	PoolingCount:1,
-	CreateCount:1,
-	DestroyCount:0,
-	CloseCount:2,
-	ConnectCount:2,
-	Connections:[
-		{ID:820781338, ConnectTime:"2020-07-31 11:03:10", UseCount:2, LastActiveTime:"2020-07-31 11:03:10"}
-	]
-}]
-2020-07-31 11:03:11.341 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationFailedEvent[source=org.springframework.boot.SpringApplication@6aa6c17]
-2020-07-31 11:10:30.392 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 26840 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
-2020-07-31 11:10:30.397 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
-2020-07-31 11:10:33.979 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
-	CreateTime:"2020-07-31 11:10:32",
-	ActiveCount:0,
-	PoolingCount:1,
-	CreateCount:1,
-	DestroyCount:0,
-	CloseCount:2,
-	ConnectCount:2,
-	Connections:[
-		{ID:1655750533, ConnectTime:"2020-07-31 11:10:33", UseCount:2, LastActiveTime:"2020-07-31 11:10:33"}
-	]
-}]
-2020-07-31 11:10:35.100 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.web.servlet.context.ServletWebServerInitializedEvent[source=org.springframework.boot.web.embedded.tomcat.TomcatWebServer@61eab26b]
-2020-07-31 11:10:35.107 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.context.event.ContextRefreshedEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6f63b475, started on Fri Jul 31 11:10:30 CST 2020]
-2020-07-31 11:10:35.111 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Started DemoApplication in 7.226 seconds (JVM running for 9.288)
-2020-07-31 11:10:35.112 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationStartedEvent[source=org.springframework.boot.SpringApplication@7827d7b]
-2020-07-31 11:10:35.112 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6f63b475, started on Fri Jul 31 11:10:30 CST 2020]
-2020-07-31 11:10:35.114 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@7827d7b]
-2020-07-31 11:10:35.114 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 应用初始化成功，应用可以接受请求:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@7827d7b]
-2020-07-31 11:10:35.114 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6f63b475, started on Fri Jul 31 11:10:30 CST 2020]
-2020-07-31 11:10:35.115 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 
+2020-08-14 15:06:08.274 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.web.servlet.context.ServletWebServerInitializedEvent[source=org.springframework.boot.web.embedded.tomcat.TomcatWebServer@54234569]
+2020-08-14 15:06:08.281 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.context.event.ContextRefreshedEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@53941c2f, started on Fri Aug 14 15:06:03 CST 2020]
+2020-08-14 15:06:08.285 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Started DemoApplication in 7.101 seconds (JVM running for 9.126)
+2020-08-14 15:06:08.285 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationStartedEvent[source=org.springframework.boot.SpringApplication@4fedf908]
+2020-08-14 15:06:08.286 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@53941c2f, started on Fri Aug 14 15:06:03 CST 2020]
+2020-08-14 15:06:08.288 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@4fedf908]
+2020-08-14 15:06:08.288 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 应用初始化成功，应用可以接受请求:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@4fedf908]
+2020-08-14 15:06:08.288 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@53941c2f, started on Fri Aug 14 15:06:03 CST 2020]
+2020-08-14 15:06:08.289 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 
 --------------------------------------------------------
 Application'demo-dev' is Running ! Access URLs :
 Local : http://127.0.0.1:19989
-External:http://192.168.1.123:19989
+External:http://2.0.1.192:19989
 --------------------------------------------------------
 
+2020-08-14 16:04:09.513 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 13008 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
+2020-08-14 16:04:09.519 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
+2020-08-14 16:04:19.134 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
+	CreateTime:"2020-08-14 16:04:14",
+	ActiveCount:0,
+	PoolingCount:1,
+	CreateCount:1,
+	DestroyCount:0,
+	CloseCount:2,
+	ConnectCount:2,
+	Connections:[
+		{ID:1272650001, ConnectTime:"2020-08-14 16:04:16", UseCount:2, LastActiveTime:"2020-08-14 16:04:19"}
+	]
+}]
+2020-08-14 16:04:21.936 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.web.servlet.context.ServletWebServerInitializedEvent[source=org.springframework.boot.web.embedded.tomcat.TomcatWebServer@584dfdaa]
+2020-08-14 16:04:21.945 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.context.event.ContextRefreshedEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@73dcf2da, started on Fri Aug 14 16:04:09 CST 2020]
+2020-08-14 16:04:21.953 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Started DemoApplication in 15.644 seconds (JVM running for 30.82)
+2020-08-14 16:04:21.954 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationStartedEvent[source=org.springframework.boot.SpringApplication@19c48d2f]
+2020-08-14 16:04:21.956 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@73dcf2da, started on Fri Aug 14 16:04:09 CST 2020]
+2020-08-14 16:04:21.959 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@19c48d2f]
+2020-08-14 16:04:21.960 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 应用初始化成功，应用可以接受请求:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@19c48d2f]
+2020-08-14 16:04:21.960 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@73dcf2da, started on Fri Aug 14 16:04:09 CST 2020]
+2020-08-14 16:04:21.961 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 
+--------------------------------------------------------
+Application'demo-dev' is Running ! Access URLs :
+Local : http://127.0.0.1:19989
+External:http://2.0.1.192:19989
+--------------------------------------------------------
+
+2020-08-14 16:04:55.236 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/favicon.ico]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[35ms]; status=[OK]
+2020-08-14 16:04:55.507 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[260ms]; status=[OK]
+2020-08-14 16:04:56.078 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 16:04:56.125 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[42ms]; status=[OK]
+2020-08-14 16:04:56.716 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/favicon.ico]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[48ms]; status=[OK]
+2020-08-14 16:04:56.722 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 16:05:25.659 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/favicon.ico]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[6ms]; status=[OK]
+2020-08-14 16:05:25.665 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 16:05:26.250 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/favicon.ico]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[1ms]; status=[OK]
+2020-08-14 16:05:26.254 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 16:05:26.579 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.security.access.event.AuthorizationFailureEvent[source=FilterInvocation: URL: /tasks]
+2020-08-14 16:05:27.246 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/login]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[639ms]; status=[failed: org.thymeleaf.exceptions.TemplateInputException: Error resolving template [loginPage], template might not exist or might not be accessible by any of the configured Template Resolvers]
+2020-08-14 16:05:27.264 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[11ms]; status=[OK]
+2020-08-14 16:07:43.977 [35m[http-nio-19989-exec-9][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/login]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[74ms]; status=[OK]
+2020-08-14 16:30:51.596 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/login]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[66ms]; status=[failed: org.thymeleaf.exceptions.TemplateInputException: Error resolving template [loginPage], template might not exist or might not be accessible by any of the configured Template Resolvers]
+2020-08-14 16:30:51.608 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[8ms]; status=[OK]
+2020-08-14 16:31:33.416 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[50ms]; status=[OK]
+2020-08-14 16:31:33.424 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[6ms]; status=[OK]
+2020-08-14 16:31:36.330 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 16:31:36.337 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 16:31:41.251 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/favicon.ico]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:31:41.272 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[18ms]; status=[OK]
+2020-08-14 16:31:41.551 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:31:41.557 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 16:32:10.204 [35m[http-nio-19989-exec-9][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:32:10.210 [35m[http-nio-19989-exec-9][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 16:32:40.792 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/favicon.ico]; client=[0:0:0:0:0:0:0:1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:32:40.797 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[0:0:0:0:0:0:0:1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:32:41.399 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/favicon.ico]; client=[0:0:0:0:0:0:0:1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 16:32:41.404 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[0:0:0:0:0:0:0:1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 16:32:41.515 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.security.access.event.AuthorizationFailureEvent[source=FilterInvocation: URL: /tasks]
+2020-08-14 16:32:41.533 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/login]; client=[0:0:0:0:0:0:0:1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[failed: org.thymeleaf.exceptions.TemplateInputException: Error resolving template [loginPage], template might not exist or might not be accessible by any of the configured Template Resolvers]
+2020-08-14 16:32:41.540 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[0:0:0:0:0:0:0:1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:32:42.091 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/favicon.ico]; client=[0:0:0:0:0:0:0:1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 16:32:42.097 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[0:0:0:0:0:0:0:1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:33:06.940 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[27ms]; status=[OK]
+2020-08-14 16:33:06.945 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:33:09.561 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:33:09.566 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 16:33:11.465 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 16:33:11.470 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 16:33:17.450 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 16:33:17.456 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 16:33:26.437 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 16:33:26.443 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:33:29.767 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/login]; client=[0:0:0:0:0:0:0:1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[6ms]; status=[failed: org.thymeleaf.exceptions.TemplateInputException: Error resolving template [loginPage], template might not exist or might not be accessible by any of the configured Template Resolvers]
+2020-08-14 16:33:29.774 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[0:0:0:0:0:0:0:1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:33:33.508 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 16:33:33.514 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:33:35.185 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:33:35.191 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:33:48.537 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[11ms]; status=[OK]
+2020-08-14 16:33:48.541 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 16:33:49.861 [35m[http-nio-19989-exec-9][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:33:49.868 [35m[http-nio-19989-exec-9][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 16:33:53.920 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:33:53.926 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:34:03.313 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/favicon.ico]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[23ms]; status=[OK]
+2020-08-14 16:34:03.321 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[6ms]; status=[OK]
+2020-08-14 16:34:03.552 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/favicon.ico]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 16:34:03.557 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 16:34:03.902 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 16:34:03.908 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 16:44:38.276 [35m[SpringContextShutdownHook][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@73dcf2da, started on Fri Aug 14 16:04:09 CST 2020]
+2020-08-14 16:44:39.300 [35m[SpringContextShutdownHook][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.context.event.ContextClosedEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@73dcf2da, started on Fri Aug 14 16:04:09 CST 2020]
+2020-08-14 16:45:34.257 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 16116 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
+2020-08-14 16:45:34.260 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
+2020-08-14 16:45:37.767 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
+	CreateTime:"2020-08-14 16:45:36",
+	ActiveCount:0,
+	PoolingCount:1,
+	CreateCount:1,
+	DestroyCount:0,
+	CloseCount:2,
+	ConnectCount:2,
+	Connections:[
+		{ID:1479926346, ConnectTime:"2020-08-14 16:45:36", UseCount:2, LastActiveTime:"2020-08-14 16:45:37"}
+	]
+}]
+2020-08-14 16:45:39.235 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.web.servlet.context.ServletWebServerInitializedEvent[source=org.springframework.boot.web.embedded.tomcat.TomcatWebServer@26c6288d]
+2020-08-14 16:45:39.242 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.context.event.ContextRefreshedEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5a1de7fb, started on Fri Aug 14 16:45:34 CST 2020]
+2020-08-14 16:45:39.245 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Started DemoApplication in 7.177 seconds (JVM running for 9.081)
+2020-08-14 16:45:39.246 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationStartedEvent[source=org.springframework.boot.SpringApplication@6b289535]
+2020-08-14 16:45:39.246 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5a1de7fb, started on Fri Aug 14 16:45:34 CST 2020]
+2020-08-14 16:45:39.248 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@6b289535]
+2020-08-14 16:45:39.248 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 应用初始化成功，应用可以接受请求:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@6b289535]
+2020-08-14 16:45:39.249 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5a1de7fb, started on Fri Aug 14 16:45:34 CST 2020]
+2020-08-14 16:45:39.250 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 
+--------------------------------------------------------
+Application'demo-dev' is Running ! Access URLs :
+Local : http://127.0.0.1:19989
+External:http://2.0.1.192:19989
+--------------------------------------------------------
+
+2020-08-14 16:47:02.263 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[15ms]; status=[OK]
+2020-08-14 16:47:02.316 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[46ms]; status=[OK]
+2020-08-14 16:47:24.611 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 16:47:24.615 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:44:20.691 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:44:20.697 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:44:20.815 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/favicon.ico]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[7ms]; status=[OK]
+2020-08-14 17:44:20.924 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[108ms]; status=[OK]
+2020-08-14 17:44:45.140 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 22556 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
+2020-08-14 17:44:45.147 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
+2020-08-14 17:44:50.307 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
+	CreateTime:"2020-08-14 17:44:48",
+	ActiveCount:0,
+	PoolingCount:1,
+	CreateCount:1,
+	DestroyCount:0,
+	CloseCount:2,
+	ConnectCount:2,
+	Connections:[
+		{ID:882053845, ConnectTime:"2020-08-14 17:44:49", UseCount:2, LastActiveTime:"2020-08-14 17:44:50"}
+	]
+}]
+2020-08-14 17:44:51.864 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.web.servlet.context.ServletWebServerInitializedEvent[source=org.springframework.boot.web.embedded.tomcat.TomcatWebServer@27a0e6ce]
+2020-08-14 17:44:51.875 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.context.event.ContextRefreshedEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@24ba9639, started on Fri Aug 14 17:44:45 CST 2020]
+2020-08-14 17:44:51.881 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Started DemoApplication in 9.696 seconds (JVM running for 11.778)
+2020-08-14 17:44:51.883 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationStartedEvent[source=org.springframework.boot.SpringApplication@6c1bebca]
+2020-08-14 17:44:51.884 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@24ba9639, started on Fri Aug 14 17:44:45 CST 2020]
+2020-08-14 17:44:51.887 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@6c1bebca]
+2020-08-14 17:44:51.888 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 应用初始化成功，应用可以接受请求:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@6c1bebca]
+2020-08-14 17:44:51.888 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@24ba9639, started on Fri Aug 14 17:44:45 CST 2020]
+2020-08-14 17:44:51.890 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 
+--------------------------------------------------------
+Application'demo-dev' is Running ! Access URLs :
+Local : http://127.0.0.1:19989
+External:http://2.0.1.25:19989
+--------------------------------------------------------
+
+2020-08-14 17:46:06.045 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[15ms]; status=[OK]
+2020-08-14 17:46:06.094 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[43ms]; status=[OK]
+2020-08-14 17:48:02.885 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 18436 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
+2020-08-14 17:48:02.896 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
+2020-08-14 17:48:11.275 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
+	CreateTime:"2020-08-14 17:48:07",
+	ActiveCount:0,
+	PoolingCount:1,
+	CreateCount:1,
+	DestroyCount:0,
+	CloseCount:2,
+	ConnectCount:2,
+	Connections:[
+		{ID:34241760, ConnectTime:"2020-08-14 17:48:08", UseCount:2, LastActiveTime:"2020-08-14 17:48:11"}
+	]
+}]
+2020-08-14 17:48:14.537 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.web.servlet.context.ServletWebServerInitializedEvent[source=org.springframework.boot.web.embedded.tomcat.TomcatWebServer@7e544223]
+2020-08-14 17:48:14.550 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.context.event.ContextRefreshedEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3db663d0, started on Fri Aug 14 17:48:03 CST 2020]
+2020-08-14 17:48:14.559 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Started DemoApplication in 14.041 seconds (JVM running for 23.317)
+2020-08-14 17:48:14.562 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationStartedEvent[source=org.springframework.boot.SpringApplication@7eba962d]
+2020-08-14 17:48:14.564 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3db663d0, started on Fri Aug 14 17:48:03 CST 2020]
+2020-08-14 17:48:14.569 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@7eba962d]
+2020-08-14 17:48:14.569 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 应用初始化成功，应用可以接受请求:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@7eba962d]
+2020-08-14 17:48:14.570 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3db663d0, started on Fri Aug 14 17:48:03 CST 2020]
+2020-08-14 17:48:14.572 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 
+--------------------------------------------------------
+Application'demo-dev' is Running ! Access URLs :
+Local : http://127.0.0.1:19989
+External:http://2.0.1.25:19989
+--------------------------------------------------------
+
+2020-08-14 17:48:19.759 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[37ms]; status=[OK]
+2020-08-14 17:48:19.882 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[108ms]; status=[OK]
+2020-08-14 17:48:22.485 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[96ms]; status=[OK]
+2020-08-14 17:48:22.494 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[6ms]; status=[OK]
+2020-08-14 17:48:23.438 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[7ms]; status=[OK]
+2020-08-14 17:48:23.447 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[7ms]; status=[OK]
+2020-08-14 17:48:24.082 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 17:48:24.092 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[8ms]; status=[OK]
+2020-08-14 17:48:24.541 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:48:24.548 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[6ms]; status=[OK]
+2020-08-14 17:48:24.734 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[7ms]; status=[OK]
+2020-08-14 17:48:24.742 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[7ms]; status=[OK]
+2020-08-14 17:48:24.929 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:48:24.938 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[8ms]; status=[OK]
+2020-08-14 17:48:25.139 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 17:48:25.146 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[6ms]; status=[OK]
+2020-08-14 17:48:25.323 [35m[http-nio-19989-exec-9][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:48:25.330 [35m[http-nio-19989-exec-9][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 17:48:25.662 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[18ms]; status=[OK]
+2020-08-14 17:48:25.670 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[7ms]; status=[OK]
+2020-08-14 17:48:30.273 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/login]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[712ms]; status=[failed: org.thymeleaf.exceptions.TemplateInputException: Error resolving template [loginPage], template might not exist or might not be accessible by any of the configured Template Resolvers]
+2020-08-14 17:48:30.313 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[20ms]; status=[OK]
+2020-08-14 17:48:32.670 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:48:32.677 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 17:48:34.573 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:48:34.579 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:48:36.267 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:48:36.272 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:48:36.898 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:48:36.903 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:48:37.336 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:48:37.342 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 17:48:37.555 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:48:37.560 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:49:23.711 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:49:23.716 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:49:24.951 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:49:24.956 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:49:25.597 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:49:25.601 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:49:25.996 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:49:26.001 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:51:10.656 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:51:10.662 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:51:13.406 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:51:13.411 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:51:39.652 [35m[SpringContextShutdownHook][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3db663d0, started on Fri Aug 14 17:48:03 CST 2020]
+2020-08-14 17:51:39.654 [35m[SpringContextShutdownHook][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.context.event.ContextClosedEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3db663d0, started on Fri Aug 14 17:48:03 CST 2020]
+2020-08-14 17:51:56.182 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 15800 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
+2020-08-14 17:51:56.189 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
+2020-08-14 17:52:03.652 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
+	CreateTime:"2020-08-14 17:52:00",
+	ActiveCount:0,
+	PoolingCount:1,
+	CreateCount:1,
+	DestroyCount:0,
+	CloseCount:2,
+	ConnectCount:2,
+	Connections:[
+		{ID:1089013300, ConnectTime:"2020-08-14 17:52:01", UseCount:2, LastActiveTime:"2020-08-14 17:52:03"}
+	]
+}]
+2020-08-14 17:52:06.080 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.web.servlet.context.ServletWebServerInitializedEvent[source=org.springframework.boot.web.embedded.tomcat.TomcatWebServer@5503e208]
+2020-08-14 17:52:06.091 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.context.event.ContextRefreshedEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@25ad4f71, started on Fri Aug 14 17:51:56 CST 2020]
+2020-08-14 17:52:06.100 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Started DemoApplication in 12.238 seconds (JVM running for 19.918)
+2020-08-14 17:52:06.101 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationStartedEvent[source=org.springframework.boot.SpringApplication@56ed6e17]
+2020-08-14 17:52:06.102 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@25ad4f71, started on Fri Aug 14 17:51:56 CST 2020]
+2020-08-14 17:52:06.106 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@56ed6e17]
+2020-08-14 17:52:06.106 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 应用初始化成功，应用可以接受请求:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@56ed6e17]
+2020-08-14 17:52:06.106 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@25ad4f71, started on Fri Aug 14 17:51:56 CST 2020]
+2020-08-14 17:52:06.108 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 
+--------------------------------------------------------
+Application'demo-dev' is Running ! Access URLs :
+Local : http://127.0.0.1:19989
+External:http://2.0.1.25:19989
+--------------------------------------------------------
+
+2020-08-14 17:52:12.931 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[25ms]; status=[OK]
+2020-08-14 17:52:13.010 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[70ms]; status=[OK]
+2020-08-14 17:55:02.422 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[53ms]; status=[OK]
+2020-08-14 17:55:02.426 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:55:07.341 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/login]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[351ms]; status=[failed: org.thymeleaf.exceptions.TemplateInputException: Error resolving template [loginPage], template might not exist or might not be accessible by any of the configured Template Resolvers]
+2020-08-14 17:55:07.358 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[11ms]; status=[OK]
+2020-08-14 17:57:24.639 [35m[SpringContextShutdownHook][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@25ad4f71, started on Fri Aug 14 17:51:56 CST 2020]
+2020-08-14 17:57:24.646 [35m[SpringContextShutdownHook][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.context.event.ContextClosedEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@25ad4f71, started on Fri Aug 14 17:51:56 CST 2020]
+2020-08-14 17:58:10.826 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Starting DemoApplication on 2003NB7350 with PID 17216 (D:\Work\StudyBase\demo\target\classes started by admin in D:\Work\StudyBase\demo)
+2020-08-14 17:58:10.833 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - The following profiles are active: dev
+2020-08-14 17:58:19.121 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent[source={
+	CreateTime:"2020-08-14 17:58:15",
+	ActiveCount:0,
+	PoolingCount:1,
+	CreateCount:1,
+	DestroyCount:0,
+	CloseCount:2,
+	ConnectCount:2,
+	Connections:[
+		{ID:1732123890, ConnectTime:"2020-08-14 17:58:16", UseCount:2, LastActiveTime:"2020-08-14 17:58:18"}
+	]
+}]
+2020-08-14 17:58:22.013 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.web.servlet.context.ServletWebServerInitializedEvent[source=org.springframework.boot.web.embedded.tomcat.TomcatWebServer@77107573]
+2020-08-14 17:58:22.024 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.context.event.ContextRefreshedEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@7e736350, started on Fri Aug 14 17:58:11 CST 2020]
+2020-08-14 17:58:22.033 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - Started DemoApplication in 13.452 seconds (JVM running for 24.97)
+2020-08-14 17:58:22.035 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationStartedEvent[source=org.springframework.boot.SpringApplication@4b9b57d9]
+2020-08-14 17:58:22.037 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@7e736350, started on Fri Aug 14 17:58:11 CST 2020]
+2020-08-14 17:58:22.040 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@4b9b57d9]
+2020-08-14 17:58:22.041 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 应用初始化成功，应用可以接受请求:org.springframework.boot.context.event.ApplicationReadyEvent[source=org.springframework.boot.SpringApplication@4b9b57d9]
+2020-08-14 17:58:22.041 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.boot.availability.AvailabilityChangeEvent[source=org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@7e736350, started on Fri Aug 14 17:58:11 CST 2020]
+2020-08-14 17:58:22.042 [35m[main][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 
+--------------------------------------------------------
+Application'demo-dev' is Running ! Access URLs :
+Local : http://127.0.0.1:19989
+External:http://2.0.1.25:19989
+--------------------------------------------------------
+
+2020-08-14 17:58:54.767 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/login]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[988ms]; status=[OK]
+2020-08-14 17:59:00.033 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[19ms]; status=[OK]
+2020-08-14 17:59:00.075 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[34ms]; status=[OK]
+2020-08-14 17:59:01.598 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[60ms]; status=[OK]
+2020-08-14 17:59:01.603 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:03.502 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:03.509 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 17:59:04.085 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 17:59:04.089 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:04.526 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:59:04.532 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:04.742 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:04.746 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:04.956 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:04.962 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:05.160 [35m[http-nio-19989-exec-9][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:59:05.166 [35m[http-nio-19989-exec-9][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:05.358 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:05.366 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[5ms]; status=[OK]
+2020-08-14 17:59:05.578 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:05.583 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:59:05.776 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:05.782 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:05.970 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[1ms]; status=[OK]
+2020-08-14 17:59:05.973 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:06.155 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:06.160 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:06.359 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:59:06.365 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:59:06.572 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:06.578 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:59:06.787 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:06.793 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:07.002 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[1ms]; status=[OK]
+2020-08-14 17:59:07.006 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:59:07.241 [35m[http-nio-19989-exec-9][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:59:07.246 [35m[http-nio-19989-exec-9][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:59:07.446 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[1ms]; status=[OK]
+2020-08-14 17:59:07.451 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:07.671 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[1ms]; status=[OK]
+2020-08-14 17:59:07.676 [35m[http-nio-19989-exec-2][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:07.892 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:07.899 [35m[http-nio-19989-exec-3][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:08.124 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:08.129 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:08.344 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:08.349 [35m[http-nio-19989-exec-4][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:08.541 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[2ms]; status=[OK]
+2020-08-14 17:59:08.547 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:08.740 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[1ms]; status=[OK]
+2020-08-14 17:59:08.745 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:08.959 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 17:59:08.964 [35m[http-nio-19989-exec-8][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[4ms]; status=[OK]
+2020-08-14 17:59:09.185 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[1ms]; status=[OK]
+2020-08-14 17:59:09.189 [35m[http-nio-19989-exec-10][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 18:00:03.726 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 18:00:03.730 [35m[http-nio-19989-exec-1][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[3ms]; status=[OK]
+2020-08-14 18:07:49.141 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.u.f.JwtPreAuthFilter[0;39m - BasicAuthenticationFilters-tokenHeader:null
+2020-08-14 18:07:49.203 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/task]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[60ms]; status=[OK]
+2020-08-14 18:07:49.238 [35m[http-nio-19989-exec-5][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/error]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[32ms]; status=[OK]
+2020-08-14 18:08:47.467 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.u.f.JwtPreAuthFilter[0;39m - BasicAuthenticationFilters-tokenHeader:null
+2020-08-14 18:08:47.473 [35m[http-nio-19989-exec-7][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:org.springframework.security.access.event.AuthorizationFailureEvent[source=FilterInvocation: URL: /tasks]
+2020-08-14 18:08:47.500 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.u.f.JwtPreAuthFilter[0;39m - BasicAuthenticationFilters-tokenHeader:null
+2020-08-14 18:08:47.513 [35m[http-nio-19989-exec-6][0;39m [34mINFO [0;39m [36mc.e.DemoApplication[0;39m - 接收到事件:ServletRequestHandledEvent: url=[/login]; client=[127.0.0.1]; method=[GET]; servlet=[dispatcherServlet]; session=[null]; user=[null]; time=[12ms]; status=[OK]

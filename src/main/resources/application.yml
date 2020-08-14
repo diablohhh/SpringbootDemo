@@ -1,7 +1,21 @@
 server:
-  port: 19979
+  port: 19979 #端口
 
 spring:
+  #页面热部署
+  devtools:
+    restart:
+      enabled: false
+  #Thymeleaf是用来开发Web和独立环境项目的服务器端的Java模版引擎
+  resources:
+    static-locations: classpath:/templates/
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    mode: HTML
+    servlet:
+      content-type: text/html
+    cache: false
   profiles:
     active:  dev
   #配置数据源
@@ -36,6 +50,14 @@ spring:
     connect-properties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
     # 合并多个DruidDataSource的监控数据
     #spring.datasource.useGlobalDataSourceStat=true
+  #配置jpa
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  jackson:
+    serialization:
+      indent_output: true
 #日志配置
 logging:
   config:

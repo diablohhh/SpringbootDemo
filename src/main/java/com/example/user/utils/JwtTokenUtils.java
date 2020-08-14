@@ -1,4 +1,4 @@
-package com.example.framework.utils;
+package com.example.user.utils;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * @Author ZhangQiangLong
  * @Date 2020/7/30 15:50
- * @Text:
+ * @Text:JwtTokenUtils类的createToken方法，传入参数UserName为用户名，roles是该用户的角色列表，isRememberMe代表是否记住我，从而选择Token的过期时间。getUsername和getUserRole方法分别用来读取Token中的用户名和该用户的角色列表。isExpiration方法用来判断该Token是否过期。
  * @description: JWT工具类
  * JWT是由三段组成的，分别是header（头）、payload（负载）和signature（签名）
  * 其中header中放{

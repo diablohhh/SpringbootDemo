@@ -2,9 +2,6 @@ server:
   port: 19999
 
 spring:
-  devtools:
-    restart:
-      enabled: false
   application:
     name: demo-pord
   #配置数据源
@@ -13,11 +10,3 @@ spring:
     username: root
     password: 123456
     driver-class-name: com.mysql.cj.jdbc.Driver
-  #配置jpa
-  jpa:
-    hibernate:
-      ddl-auto: update
-    show-sql: true
-  jackson:
-    serialization:
-      indent_output: true

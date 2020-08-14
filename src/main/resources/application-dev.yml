@@ -2,9 +2,6 @@ server:
   port: 19989
 
 spring:
-  devtools:
-    restart:
-      enabled: false
   application:
     name: demo-dev
   #配置数据源
@@ -43,11 +40,3 @@ spring:
           slowSqlMillis: 5000
     # 合并多个DruidDataSource的监控数据
     #spring.datasource.useGlobalDataSourceStat=true
-  #配置jpa
-  jpa:
-    hibernate:
-      ddl-auto: update
-    show-sql: true
-  jackson:
-    serialization:
-      indent_output: true
