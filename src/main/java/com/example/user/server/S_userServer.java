@@ -1,10 +1,13 @@
 package com.example.user.server;
 
+import com.example.user.entity.S_role;
 import com.example.user.entity.S_user;
+import com.example.user.entity.S_user_role;
 import com.example.user.repository.S_roleRepository;
 import com.example.user.repository.S_userRepository;
 import com.example.user.repository.S_user_roleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
@@ -24,10 +27,13 @@ public class S_userServer {
     @Autowired
     private final S_userRepository dao;
     @Autowired
-    private S_user_roleRepository s_user_roleRepository;
+    private S_user_roleServer s_user_roleServer;
+    @Autowired
+    private S_roleServer s_roleServer;
 
-    /*@Autowired
-    private BCryptPasswordEncoder bCryptPasswordEncoder;*/
+
+    @Autowired
+    private BCryptPasswordEncoder bCryptPasswordEncoder;
 
     public S_userServer(S_userRepository dao) {
         this.dao = dao;
@@ -42,14 +48,22 @@ public class S_userServer {
     }
 
     public S_user saveByEntity(S_user s_user) {
-        /*s_user.setPassword(bCryptPasswordEncoder.encode(s_user.getPassword()));*/
+        s_user.setPassword(bCryptPasswordEncoder.encode(s_user.getPassword()));
         List<String> roles = new ArrayList<>();
-        roles.add("ROLE_USER");
+        //基础角色ROLE_USER
+        String roleName = "ROLE_USER";
+        roles.add(roleName);
         s_user.setRoles(roles);
         S_user result = dao.save(s_user);
-        if(!StringUtils.isEmpty(result.getUsername())){
+        S_role s_role = s_roleServer.getRoleByRoleName(roleName);
+        if(null!=result && null!=s_role){
         // 插入用户成功时生成用户的角色信息
-            s_user_roleRepository.saveEntity(result.getUsername(),"ROLE_USER");
+            String userid=result.getUserid();
+            String roleid = s_role.getRoleid();
+            S_user_role s_user_role = new S_user_role();
+            s_user_role.setRoleid(roleid);
+            s_user_role.setUserid(userid);
+            s_user_roleServer.saveByEntity(s_user_role);
             result.setRoles(roles);
         }
         return result;

@@ -17,7 +17,7 @@ import javax.persistence.*;
 @Entity
 @EntityListeners(AuditingEntityListener.class)
 @Table(name = "S_USER_ROLE")
-@IdClass(S_user_rolePrimaryKey.class)
+/*@IdClass(S_user_rolePrimaryKey.class)*/
 public class S_user_role extends UserBaseEntity {
 
     public S_user_role() {
@@ -26,13 +26,12 @@ public class S_user_role extends UserBaseEntity {
     /**随机ID生成规则*/
     @GeneratedValue(generator = "hibernate-uuid")
     @GenericGenerator(name = "hibernate-uuid", strategy = "uuid")
+    @Column(name = "systemid")
+    private String systemid;
+
     @Column(name = "user_id")
     private String userid;
 
-    @Id
-    /**随机ID生成规则*/
-    @GeneratedValue(generator = "hibernate-uuid")
-    @GenericGenerator(name = "hibernate-uuid", strategy = "uuid")
     @Column(name = "role_id")
     private String roleid;
 

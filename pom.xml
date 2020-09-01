@@ -127,7 +127,7 @@
         <!--配置后，application.yml中classpath: 便可加载src/main/resources的 * 文件-->
         <resources>
             <resource>
-                <directory>src/main/resources/</directory>
+                <directory>src/main/resources</directory>
                 <includes>
                     <include>**/*.*</include>
                 </includes>

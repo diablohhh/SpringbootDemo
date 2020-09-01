@@ -71,7 +71,8 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .and()
                 .authorizeRequests()
                 // 需要角色为ADMIN才能删除该资源
-                .antMatchers(HttpMethod.DELETE,"/tasks/**").hasAnyRole("ADMIN")
+                .antMatchers(HttpMethod.DELETE,"/tasks/**")
+                .hasAnyRole("ROLE_ADMIN","ADMIN","ROLE_USER","USER")
                 // 测试用资源，需要验证了的用户才能访问
                 .antMatchers("/tasks/**").authenticated()
                 // 其他都放行了

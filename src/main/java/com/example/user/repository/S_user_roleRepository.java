@@ -18,7 +18,7 @@ import javax.transaction.Transactional;
 @Component
 public interface S_user_roleRepository extends JpaRepository<S_user_role,S_user_role> {
     @Modifying
-    @Query(nativeQuery = true,value = "INSERT INTO s_user_role VALUES((SELECT USER_ID from s_user where USER_NAME=?1),(SELECT ROLE_ID FROM s_role WHERE ROLE_NAME=?2));")
+    @Query(nativeQuery = true,value = "INSERT INTO s_user_role(USER_ID,ROLE_ID) VALUES((SELECT USER_ID from s_user where USER_NAME=?1),(SELECT ROLE_ID FROM s_role WHERE ROLE_NAME=?2));")
     void saveEntity(String userName,String roleName);
 
 }
